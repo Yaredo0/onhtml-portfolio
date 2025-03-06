@@ -1,3 +1,8 @@
+body {
+  background: rgb(48,47,62);
+  background: linear-gradient(90deg, rgba(48,47,62,1) 0%, rgba(112,112,112,1) 35%, rgba(0,212,255,1) 100%);
+}
 h1 {
   font-weight: bold;
+  font-color: grey;
 }
